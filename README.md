@@ -5,3 +5,5 @@ I also performed a regression analysis of my target variable "alcohol" against t
 Here is my Youtube video on my project:
 https://youtu.be/Y92-n7hZjko
 
+Here is the UC Irvine dataset on wine quality I used:
+https://archive.ics.uci.edu/dataset/186/wine+quality
