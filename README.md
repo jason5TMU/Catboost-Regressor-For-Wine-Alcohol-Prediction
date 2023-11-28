@@ -2,3 +2,6 @@ My project involved developing a machine learning model that predicted the alcoh
 
 I also performed a regression analysis of my target variable "alcohol" against the most important feature, "density", at the end of the Google Colab notebook. The RMSE score for the predictions on the test data was RMSE = 0.7. This RMSE value was quite decent considering the alcohol content range on the original dataset was from 8.0 to 14.2. This would reinforce the finding that density was the most important feature from the generated feature importance table, suggesting density was a good predictor of alcohol content.
 
+Here is my Youtube video on my project:
+https://youtu.be/Y92-n7hZjko
+
